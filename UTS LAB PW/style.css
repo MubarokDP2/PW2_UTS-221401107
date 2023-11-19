@@ -1,0 +1,34 @@
+/* Untuk mengatur agar konten berada di tengah */
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh; /* Mengatur tinggi sesuai tinggi layar */
+}
+
+/* Mengatur gaya teks untuk h1 */
+.content {
+  text-align: center; /* Membuat teks menjadi rata tengah */
+  display: inline-block;
+}
+.conten img {
+  min-width: 2000px;
+  height: auto;
+
+}
+/* CSS untuk bagian contact */
+.contact {
+  background-color: #808080; /* Warna latar abu-abu */
+  padding: 20px; /* Atur padding untuk memberi ruang di sekitar teks */
+}
+
+/* CSS untuk teks di dalam contact */
+.contact p {
+  color: white; /* Warna teks putih */
+  text-align: center;
+}
+
+
+
+
+    
